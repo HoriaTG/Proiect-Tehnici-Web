@@ -69,3 +69,23 @@ https://fisela.ro/
 *Contra : Nu îmi place bara neagră de informații, e mult prea mare. De asemenea, sugestiile le-aș insera în partea dreaptă a paginii, nu în mijlocul acesteia.*
 
 ## Etapa 1
+
+## Etapa 2
+
+## Etapa 3
+
+## Etapa 4
+
+## Etapa 5
+
+## Etapa 6
+
+## Etapa 7
+
+## Etapa 8
+
+# Etapa 9
+
+## Etapa 10
+
+## Etapa 11
