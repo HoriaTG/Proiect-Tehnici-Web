@@ -67,3 +67,5 @@ https://fisela.ro/
 *Pro : site realizat în 4 culori, ceea ce îl face din punctul meu de vedere modern și atrăgător. Mai mult decât atât, site-ul conține opțiune de autentificare/logare, precum și un Coș de cumpărături, dorite de mine în implementarea proiectului.*
 
 *Contra : Nu îmi place bara neagră de informații, e mult prea mare. De asemenea, sugestiile le-aș insera în partea dreaptă a paginii, nu în mijlocul acesteia.*
+
+## Etapa 1
