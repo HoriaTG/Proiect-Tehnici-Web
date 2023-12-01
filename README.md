@@ -1,10 +1,10 @@
-## Magazin cu articole de pescuit
+# Magazin cu articole de pescuit
 
 Proiect realizat de : Enescu Horia Teodor Gabriel
 
 **Introducere :** Pentru realizarea acestui proiect , am ales ca temă un magazin care să conțină diverse articole de pescuit . Încât pescuitul este unul din hobby-urile mele de peste 14 ani , pot spune că am o oarecare experiență în ce privește articolele pe care eu le voi introduce în magazinul online .
 
-# Etapa 0
+## Etapa 0
 
   Magazinul online propus de mine va avea atat momeli , cat si articole necesare pescuitului sportiv . Asadar , vor exista 2 categorii : momeli si produse . Din aceste categorii rezulta si subcategoriile care au legatura cu denumirea articolului si firma care l-a confectionat . De exemplu , pentru momeli (mamaliga,porumb,nada,etc) iar pentru produse (undita,mulineta,momitor,plumb,carlig,etc) . Aceste articole vor aparea toate intr-o pagina principala , unde va fi afisat si stocul curent al fiecarui articol in parte , precum si pretul si eficienta acestuia . Prin eficienta ma refer la recomandarile producatorului in ce priveste utilizarea articolului , intrucat fiecare produs in parte este fabricat cu un singur scop , exista de exemplu mamaligi care pot fi utilizate la o singura specie de peste . Pagina principala va avea si o optiune de filtrare a produselor , deoarece cumparatorul isi doreste sa cumpere un anume articol si poate nu este interesat sa vada toate ofertele propuse de site-ul meu .
 
