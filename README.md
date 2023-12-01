@@ -10,10 +10,10 @@
 
 **Paginile vor fi următoarele :**
 
--> pagina principală, unde cumpărătorul poate vedea toate sugestiile și va putea filtra rezultatele.
--> o pagină care să conțină articolele în urma filtrării.
--> o pagină de creare a unui cont, cu nume și parolă.
--> o pagină de logare într-un cont deja existent folosind nume și parolă.
+-> pagina principală, unde cumpărătorul poate vedea toate sugestiile și va putea filtra rezultatele. <br>
+-> o pagină care să conțină articolele în urma filtrării.<br>
+-> o pagină de creare a unui cont, cu nume și parolă.<br>
+-> o pagină de logare într-un cont deja existent folosind nume și parolă.<br>
 -> o pagină numită “Coș de cumpărături” unde cumpărătorul va putea plasa comanda. Tot acolo va exista și un istoric cu obiectele pe care acesta le-a cumpărat în trecut. Cumpărătorul nu va putea plasa o comandă dacă nu are un cont.
 
 *Opțional, dacă îmi rămâne timp, doresc să fac și o pagină de feedback. Acolo cumpărătorul poate oferi feedback cu stele de la 1 la 5 pentru un anume articol.*
