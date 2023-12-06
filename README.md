@@ -95,16 +95,14 @@ Creați prima pagină a site-ului (doar prima pagină; fără stilizare încă, 
 
 6. Folosiți minim un tag dintre: section, article, aside. Trebuie să existe măcar un caz de taguri de secționare imbricate (secțiune în secțiune). Puneți headingul cu nivelul corespunzător nivelului imbricării. Atenție, nu folosim headinguri decât ca titluri pentru tagurile de secționare. Observație: nivelul headingului trebuie să corespundă nivelului de imbricare a secțiunii (de exemplu un tag de secționare aflat direct în body  are titlul scris cu h2, dar un tag de sectionare aflat intr-un tag de secționare care la rândul lui se află în body, va avea titlul scris cu h3<br>
 
-7. În cadrul secțiunilor folosiți minim 2 taguri dintre următoare taguri de grupare: p, ol, ul, blockquote, dl
-<br>
-8. Adăugați în pagină o imagine cu descriere, folosind figure și figcaption. Pe ecran mic (mobil) trebuie să se încarce o variantă mai redusă în dimensiune (bytes) a imaginii, pe tabletă o variantă medie, iar pe ecran mare varianta cea mai mare a imaginii. Folosiți un editor grafic pentru cropping și redimensionare pentru a obține cele 3 variante de imagini.
-<br>
-9. Textul trebuie să conțină toate cuvintele cheie identificate pentru pagina curentă. Puteți găsi mai multe sintagme cheie pe care le puteți folosi, cu https://www.wordtracker.com/  sau https://app.neilpatel.com/en/ubersuggest/keyword_ideas
-Acestea trebuie să apară de mai multe ori în pagină, în taguri relevante.
+7. În cadrul secțiunilor folosiți minim 2 taguri dintre următoare taguri de grupare: p, ol, ul, blockquote, dl<br>
 
-<br>
-10. În cadrul textului îndepliniți 3 dintre cerințele de mai jos, la alegere:
-<br>
+8. Adăugați în pagină o imagine cu descriere, folosind figure și figcaption. Pe ecran mic (mobil) trebuie să se încarce o variantă mai redusă în dimensiune (bytes) a imaginii, pe tabletă o variantă medie, iar pe ecran mare varianta cea mai mare a imaginii. Folosiți un editor grafic pentru cropping și redimensionare pentru a obține cele 3 variante de imagini.<br>
+
+9. Textul trebuie să conțină toate cuvintele cheie identificate pentru pagina curentă. Puteți găsi mai multe sintagme cheie pe care le puteți folosi, cu https://www.wordtracker.com/  sau https://app.neilpatel.com/en/ubersuggest/keyword_ideas
+Acestea trebuie să apară de mai multe ori în pagină, în taguri relevante.<br>
+
+10. În cadrul textului îndepliniți 3 dintre cerințele de mai jos, la alegere:<br>
 -> marcați cuvintele și sintagmele cheie cu ajutorul tagului b <br>
 -> marcați textul idiomatic (termeni științifici, în altă limbă, termeni tehnici, de jargon, etc) cu tagul i <br>
 -> marcați textul de atenționare cu strong <br>
@@ -114,23 +112,23 @@ Acestea trebuie să apară de mai multe ori în pagină, în taguri relevante.
 -> marcați un termen definit cu dfn <br>
 -> marcați un citat cu tagul q <br>
 
-11. Creați următoarele linkuri speciale: <br>
+11. Creați următoarele linkuri speciale:<br>
 
 -> un link extern (va fi in continutul paginii, nu in meniu, va face referire la alt site si se va deschide in fereastră nouă) <br>
 -> un link în footer către începutul paginii <br>
 -> minim două linkuri care se deschid într-un iframe (se poate face ca în exemplul de curs, linkuri care deschid videoclipuri relevante de pe youtube în iframe). Atentie nu e vorba de src-ul iframe-ului ce de taguri <a> care la click se deschid in iframe. Iframe-ul va contine in mod default una dintre resursele specificate in linkuri <br>
 -> Un link de tip download <br>
 
-12. Creați în pagină mai multe zone de details și summary. Pot fi întrebări frecvente, pot fi niște oferte pentru care afișăm titlul și utilizatorul le deschide pe cele care îl interesează, pot fi secțiuni explicative etc. <br>
+12. Creați în pagină mai multe zone de details și summary. Pot fi întrebări frecvente, pot fi niște oferte pentru care afișăm titlul și utilizatorul le deschide pe cele care îl interesează, pot fi secțiuni explicative etc.<br>
 
-13. În footer se vor adăuga cu ajutorul tagului address informații de contact: <br>
+13. În footer se vor adăuga cu ajutorul tagului address informații de contact:<br>
 
 -> telefon fictiv, marcat cu tagul <a> si URI Scheme-ul corespunzător <br>
 -> adresă fictivă care la click deschide o locatie pe Google Maps (locatia in mod normal ar corespunde cu adresa dar voi veti pune drept locatie in maps, Facultatea de Matematica si Informatica) <br>
 -> e-mail fictiv, marcat cu tagul <a> si URI Scheme-ul corespunzător în href <br>
 -> Link care deschide o aplicatie de comunicare precum skype sau whatsapp pentru chat <br>
 
-14. În footer se va adăuga informație de copyright, folosind tagul small, simbolul specific de copyright cu codul html necesar (forma &cod;) și data creării paginii scrisă în limba română și pusă în tagul time cu atributul datetime corespunzător. <br>
+14. În footer se va adăuga informație de copyright, folosind tagul small, simbolul specific de copyright cu codul html necesar (forma &cod;) și data creării paginii scrisă în limba română și pusă în tagul time cu atributul datetime corespunzător.<br>
 
 15. Pagina trebuie sa fie valida din punct de vedere sintactic. Deci verificati cu validatorul html. Validatorul va fi pregătit într-un tab, la prezentare, și pagina se va valida pe loc. <br>
 
