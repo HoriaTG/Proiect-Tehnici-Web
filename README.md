@@ -113,7 +113,6 @@ Acestea trebuie să apară de mai multe ori în pagină, în taguri relevante.<b
 -> marcați un citat cu tagul q <br>
 
 11. Creați următoarele linkuri speciale:<br>
-
 -> un link extern (va fi in continutul paginii, nu in meniu, va face referire la alt site si se va deschide in fereastră nouă) <br>
 -> un link în footer către începutul paginii <br>
 -> minim două linkuri care se deschid într-un iframe (se poate face ca în exemplul de curs, linkuri care deschid videoclipuri relevante de pe youtube în iframe). Atentie nu e vorba de src-ul iframe-ului ce de taguri <a> care la click se deschid in iframe. Iframe-ul va contine in mod default una dintre resursele specificate in linkuri <br>
@@ -122,7 +121,6 @@ Acestea trebuie să apară de mai multe ori în pagină, în taguri relevante.<b
 12. Creați în pagină mai multe zone de details și summary. Pot fi întrebări frecvente, pot fi niște oferte pentru care afișăm titlul și utilizatorul le deschide pe cele care îl interesează, pot fi secțiuni explicative etc.<br>
 
 13. În footer se vor adăuga cu ajutorul tagului address informații de contact:<br>
-
 -> telefon fictiv, marcat cu tagul <a> si URI Scheme-ul corespunzător <br>
 -> adresă fictivă care la click deschide o locatie pe Google Maps (locatia in mod normal ar corespunde cu adresa dar voi veti pune drept locatie in maps, Facultatea de Matematica si Informatica) <br>
 -> e-mail fictiv, marcat cu tagul <a> si URI Scheme-ul corespunzător în href <br>
@@ -130,9 +128,9 @@ Acestea trebuie să apară de mai multe ori în pagină, în taguri relevante.<b
 
 14. În footer se va adăuga informație de copyright, folosind tagul small, simbolul specific de copyright cu codul html necesar (forma &cod;) și data creării paginii scrisă în limba română și pusă în tagul time cu atributul datetime corespunzător.<br>
 
-15. Pagina trebuie sa fie valida din punct de vedere sintactic. Deci verificati cu validatorul html. Validatorul va fi pregătit într-un tab, la prezentare, și pagina se va valida pe loc. <br>
+15. Pagina trebuie sa fie valida din punct de vedere sintactic. Deci verificati cu validatorul html. Validatorul va fi pregătit într-un tab, la prezentare, și pagina se va valida pe loc.<br>
 
-<b>Bonus: Folosirea unei formule scrise în MathML - formula trebuie să aibă sens în contextul site-ului. </b>
+<b>Bonus: Folosirea unei formule scrise în MathML - formula trebuie să aibă sens în contextul site-ului.</b>
 
 ### Rezolvări
 
