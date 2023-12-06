@@ -79,13 +79,10 @@ https://fisela.ro/
  <summary>
   
 ## Etapa 1
-</summary>
+</summary>  
 
-<details>
- <summary>
-  
 ### Cerințe
-</summary>
+
 Creați prima pagină a site-ului (doar prima pagină; fără stilizare încă, fiindcă veți primi taskuri legate de acest aspect). Puteți pune în această pagină text care va fi mutat în alte pagini, mai târziu, dar nu faceți încă mai multe pagini fiindcă le vom genera prin Node! La prezentare vă rog să aveți pentru fiecare task notată linia din program la care l-ați rezolvat ca să nu dureze prezentarea mai mult de 3-4 minute<br>
 1. Creați un folder al proiectului care va cuprinde toate fisierele necesare site-ului vostru. Creați în el un fisier  numit index.html. Deschideți acest fișier cu un editor de text care marchează sintaxa. Adăugați în fișier doctype și setați limba documentului în tagul html<br>
 
@@ -135,7 +132,6 @@ Acestea trebuie să apară de mai multe ori în pagină, în taguri relevante.<b
 15. Pagina trebuie sa fie valida din punct de vedere sintactic. Deci verificati cu validatorul html. Validatorul va fi pregătit într-un tab, la prezentare, și pagina se va valida pe loc.<br>
 
 <b>Bonus: Folosirea unei formule scrise în MathML - formula trebuie să aibă sens în contextul site-ului.</b>
-</details>
 
 ### Rezolvări
 
