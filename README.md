@@ -7,6 +7,7 @@
  <details>
   
  <summary>
+  
 ## Etapa 0
 
 </summary>
