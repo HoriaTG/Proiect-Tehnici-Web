@@ -82,8 +82,8 @@ https://fisela.ro/
 ## Etapa 1
 </summary>  
 
-task 2: index.html, liniile 9-13
-task 3: index.html, liniile 15-23 <br>
+task 2: index.html, liniile 9-13 <br>
+task 3: index.html, liniile 15-23
 
 </details>
 
