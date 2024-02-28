@@ -82,7 +82,8 @@ https://fisela.ro/
 ## Etapa 1
 </summary>  
 
-taguri meta relevante : index.html, liniile 9-13
+task 2: index.html, liniile 9-13
+task 3: index.html, liniile 15-23
 
 </details>
 
