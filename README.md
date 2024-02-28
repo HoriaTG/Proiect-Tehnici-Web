@@ -83,7 +83,7 @@ https://fisela.ro/
 </summary>  
 
 task 2: index.html, liniile 9-13
-task 3: index.html, liniile 15-23
+task 3: index.html, liniile 15-23 <br>
 
 </details>
 
