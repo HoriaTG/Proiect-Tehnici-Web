@@ -5,8 +5,8 @@
 **Introducere :** Pentru realizarea acestui proiect, am ales ca temă un magazin care să conțină diverse articole de pescuit. Încât pescuitul este unul din hobby-urile mele de peste 14 ani, pot spune că am o oarecare experiență în ce privește articolele pe care eu le voi introduce în magazinul online.
 
  <details>
+  
  <summary>
-   
 ## Etapa 0
 
 </summary>
