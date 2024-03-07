@@ -100,7 +100,7 @@ task 3: index.html, liniile 15-23
     --gri-deschis-luminos: #F0F0F0;<br>
     --gri-deschis-placut: #E8E8E8;<br>
 
-Motivul alegerii acestor culori constă în faptul că această culoare, gri, folosită în diferite nuanțe, oferă site-ului un plus de lizibilitate, făcând textul mai ușor de citit iar site-ul mai ușor de înțeles !
+Motivul alegerii acestor culori constă în faptul că gri-ul, folosit în diferite nuanțe, oferă site-ului un plus de lizibilitate, făcând textul mai ușor de citit iar site-ul mai ușor de înțeles !
    
 
 </details>
