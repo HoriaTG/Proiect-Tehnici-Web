@@ -87,7 +87,24 @@ task 3: index.html, liniile 15-23
 
 </details>
 
-## Etapa 2
+<details>
+<summary>
+
+ ## Etapa 2
+</summary>
+
+1. Am ales următoarele coduri de culori pentru schema cromatică :
+    --gri-deschis: #DCDCDC;
+    --gri-albit: #EAEAEA;
+    --gri-deschis-neutru: #F5F5F5;
+    --gri-deschis-luminos: #F0F0F0;
+    --gri-deschis-placut: #E8E8E8;
+
+Motivul alegerii acestor culori constă în faptul că această culoare, gri, folosită în diferite nuanțe, oferă site-ului un plus de lizibilitate, făcând textul mai ușor de citit iar site-ul mai ușor de înțeles !
+   
+
+</details>
+
 
 ## Etapa 3
 
