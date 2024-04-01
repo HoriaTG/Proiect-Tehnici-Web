@@ -1,0 +1,33 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+    border: 5px inset black;
+}
+
+#tab-orar th, #tab-orar td{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+  }
+  
+
+  tr:nth-child(2n)  {
+    border-top: 1px solid #ffcc00; 
+  }
+  
+  tr:nth-child(2n+1)  {
+    border-top: 1px solid #0099ff; 
+  }
+
+tfoot tr td{
+    border-bottom: 1px solid black;
+}
+
+tr {
+    transition: outline 0.5s; 
+  }
+  
+  tr:hover {
+    outline: 5px solid rgba(0, 0, 0, 0.7); 
+  }

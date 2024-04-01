@@ -1,0 +1,35 @@
+body{
+    --gri-deschis: #DCDCDC;
+    --gri-albit: #EAEAEA;
+    --gri-deschis-neutru: #F5F5F5;
+    --gri-deschis-luminos: #F0F0F0;
+    --gri-deschis-placut: #E8E8E8;
+    --spatiere-pagina:50px;
+
+    --albastru-deschis: aqua;
+    --albastru-inchis: blue;
+
+    --dim-spatiere: 40px;
+
+    padding-left: var(--dim-spatiere);
+    padding-right: var(--dim-spatiere);
+}
+
+p{
+    background-color: var(--gri-deschis-neutru);
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+ins#reducere {
+    color: red;
+}
+
+html{
+    font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
+}

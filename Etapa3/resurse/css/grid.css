@@ -1,0 +1,129 @@
+#grid-pagina {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-areas: "prezentare prezentare prezentare prezentare"
+                         "calendar tabel tabel anunturi"
+                         "continut continut continut continut"
+                         "dateserver dateserver statistici utilizatori";
+}
+
+html {
+    font-size: 18px;
+}
+
+#grid-pagina>*{
+    border: 2px solid black;
+    padding: 1em;
+    border-radius: 20px; 
+    text-align: center;
+}
+
+#prezentare {
+    grid-area : prezentare;
+}
+
+#tabel {
+    grid-area : tabel;
+}
+
+#calendar {
+    grid-area : calendar;
+}
+
+#anunturi {
+    grid-area : anunturi;
+}
+
+#utilizatori {
+    grid-area : utilizatori;
+}
+
+#statistici {
+    grid-area : statistici;
+}
+
+#dateserver {
+    grid-area : dateserver;
+}
+
+#continut {
+    grid-area : continut;
+}
+
+@media screen and (max-width: 1250px){
+    .container {
+        flex-direction: column;
+        
+      }
+      
+      .videos, .buttons {
+        width: 75%; /* Lățimea fiecărui element este de 50% din lățimea containerului */
+        box-sizing: border-box; /* Asigură că padding-ul este inclus în lățimea elementului */
+      }
+
+      .videos{
+        overflow-x: scroll;
+      }
+}
+
+@media screen and (max-width: 1200px){
+    #grid-pagina {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-areas: "prezentare prezentare"
+                             "calendar anunturi"
+                             "tabel tabel"
+                             "continut continut"
+                             "dateserver dateserver "
+                             "statistici utilizatori";
+    }
+
+    html {
+        font-size: 15px;
+    }
+
+    div#bara-tabel{
+        overflow-x: scroll;
+    }
+}
+
+@media screen and (max-width: 800px){
+    #grid-pagina {
+        display: block;
+    }
+
+    html {
+        font-size: 12px;
+    }
+
+    #grid-pagina>*{
+        border-radius: 0;
+    }
+
+    div#bara-tabel{
+        overflow-x: scroll;
+    }
+
+    img {
+        height: 75%;
+        width: 20em;
+    }
+
+}
+
+@media screen and (max-width: 650px){
+    .container {
+        flex-direction: column;
+        
+      }
+      
+      .videos, .buttons {
+        width: 45%; /* Lățimea fiecărui element este de 50% din lățimea containerului */
+        box-sizing: border-box; /* Asigură că padding-ul este inclus în lățimea elementului */
+      }
+
+      .videos{
+        overflow-x: scroll;
+      }
+}

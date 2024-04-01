@@ -1,0 +1,43 @@
+iframe {
+    width: 560px;
+    height: 315px;
+}
+
+.container {
+    display: inline-flex;
+  }
+  
+  .videos {
+    flex: 1;
+    border: 5px solid pink;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .buttons a:hover {
+    background-color: #0056b3; 
+    color: #002043;
+    width: calc(100% + 10px);
+    background-color: white;
+  }
+  
+  .buttons a {
+  background-color: #007bff;
+  color: #002043;
+  border: 1px solid #002043;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  overflow: hidden; 
+  width: 150px;
+  transition: 1s linear; 
+}
+
